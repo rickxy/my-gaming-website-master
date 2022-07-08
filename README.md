@@ -9,3 +9,4 @@
 2. copy the all.min.css file and place it your head tag and link it up by using the <link> tag and reference it with all.min.css 
 e.g <link rel="stylesheet" href="all.min.css">
 4. after that you can make use of any icon in your project as long as you know the name of the icon you want to use. If you don't know the name of the icon that you want, you can head over to fontawesome.com and search for the icon you want to incoporate in your project
+![Screenshot (1429)](https://user-images.githubusercontent.com/36708000/177949973-40bff70b-8d59-489d-b7fc-36c5927544f9.png)
